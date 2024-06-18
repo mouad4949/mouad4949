@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm </h1>
-<img src="MMR1.png">
-
+<div>
+<img alifn="center" size="100%" src="MMR1.png">
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mouad-rguibi-a9969b265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouadrguibi" height="30" width="40" /></a>

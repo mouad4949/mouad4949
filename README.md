@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm </h1>
-<img src="Desktop/MMR.png">
+<img src="MMR.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

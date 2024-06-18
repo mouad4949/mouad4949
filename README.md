@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm </h1>
-<div>
-<img alifn="center" size="100%" src="MMR1.png">
+<div align="center">
+  <img src="MMR1.png" width="100%" alt="MMR1 Image">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

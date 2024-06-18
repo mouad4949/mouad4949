@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mouad Rguibi</h1>
-<h3 align="center">A Software Engineer Student at Faculty of Sciences and Technology Tangier.</h3>
+<h1 align="center">Hi 👋, I'm </h1>
+<img src="Desktop/MMR.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mouadrguibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouadrguibi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mouadrguibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mouadrguibi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mouad-rguibi-a9969b265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouadrguibi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mouadrguibi900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mouadrguibi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

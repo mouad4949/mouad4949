@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d0eTB5cGR3emJobjBtanR6NHVmcW44NHVkd3g4dmh5bDNieGg0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="Coding" width="500" height="300" />
 </div>
@@ -193,26 +194,28 @@ hobbies:
 
 1. **Automated CI/CD Pipeline** - Implemented a complete CI/CD pipeline using GitHub Actions, Docker, and AWS ECS
    - Technologies: Jenkins, Docker, AWS ECS, ECR
-   - [CI/CD](https://github.com/projet-fintech/Devops) - <img src="https://private-user-images.githubusercontent.com/146367397/404724406-698f8513-ac63-4af7-a2fa-dfd6037e1266.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYyOTc2MzEsIm5iZiI6MTc0NjI5NzMzMSwicGF0aCI6Ii8xNDYzNjczOTcvNDA0NzI0NDA2LTY5OGY4NTEzLWFjNjMtNGFmNy1hMmZhLWRmZDYwMzdlMTI2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwM1QxODM1MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMWNiM2JlYmM3OTBkODg2NDI2YWVjNTZhNjk5NWMzOTMzNzgwNDc2MWUyYTQ5NDEyZTFhMWJkMDQ2ZThkZGFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LNsHFDj11xW9N11RcMVVx179pWkt8I_BPsMRI7i8CrA" width="300" alt="CI/CD Pipeline Screenshot" />
+   - [CI/CD](https://github.com/projet-fintech/Devops) -
+   -  <img src="https://private-user-images.githubusercontent.com/146367397/404724406-698f8513-ac63-4af7-a2fa-dfd6037e1266.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3MjkzNzksIm5iZiI6MTc0NjcyOTA3OSwicGF0aCI6Ii8xNDYzNjczOTcvNDA0NzI0NDA2LTY5OGY4NTEzLWFjNjMtNGFmNy1hMmZhLWRmZDYwMzdlMTI2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwOFQxODMxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNTljNjFiMWQ0ZDg4Zjk2ZjEzNzZkOWU1N2ViNjEzMDBlYTdmOWY4YTVhYmMzZDQ5MTllYjZhYTZmMWRmZjY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5IyP8o_l9nlC6HqRTLgWTdP6jmigZg0eIcBnygDYS7g" width="500" alt="CI/CD Pipeline Screenshot" />
 
 2. **Kubernetes Cluster Management** - Developed a solution for managing Kubernetes clusters with automated scaling and monitoring
    - Technologies: Kubernetes, Terraform, Prometheus, Grafana
    
-   - <img src="https://private-user-images.githubusercontent.com/146297826/404702485-cebfcf4b-5b46-4784-9748-18f2edd22a62.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYyOTc3OTEsIm5iZiI6MTc0NjI5NzQ5MSwicGF0aCI6Ii8xNDYyOTc4MjYvNDA0NzAyNDg1LWNlYmZjZjRiLTViNDYtNDc4NC05NzQ4LTE4ZjJlZGQyMmE2Mi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwM1QxODM4MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZjc5MzRmOWY5NzI5Y2Y0ZjFjYzYyZmE1ZDc3NTNkNzgyOWRjNWJlY2Y4MTMzYjNiYWU4ZjVlMzIxMWM4OTVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.2PpeAb54MKn0tPB6nVVBNiOQh_u5bOMfHRdtPEH9ApM" width="300" alt="K8s Management Screenshot" />
+   - <img src="https://private-user-images.githubusercontent.com/146367397/405276229-20ec1256-c583-4b99-8643-0fb400b2daed.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3MjkzNzksIm5iZiI6MTc0NjcyOTA3OSwicGF0aCI6Ii8xNDYzNjczOTcvNDA1Mjc2MjI5LTIwZWMxMjU2LWM1ODMtNGI5OS04NjQzLTBmYjQwMGIyZGFlZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwOFQxODMxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kODZlYWJlMDI3MGU0MzU2YWQxNjJlZWYxY2ZlMWNkZTJhYjUxYWU0NjdiMTFkYjJlNTMyMjExYzA2YTA5YzBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pautC1d9ybj_uigCbaMFvYjmihN88qEwSMebfBMAso8" width="500" alt="K8s Management Screenshot" />
 
 3. **Infrastructure as Code** - Created reusable Terraform modules for provisioning cloud infrastructure
    - Technologies: Terraform, AWS, Azure
-   - <img src="https://private-user-images.githubusercontent.com/146297826/404701756-d0c47e92-e642-4c24-b597-47eb28ad435a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYyOTc3OTEsIm5iZiI6MTc0NjI5NzQ5MSwicGF0aCI6Ii8xNDYyOTc4MjYvNDA0NzAxNzU2LWQwYzQ3ZTkyLWU2NDItNGMyNC1iNTk3LTQ3ZWIyOGFkNDM1YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwM1QxODM4MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZGQzY2I2NDZmODdkMzIzMWJkMzNjYzdjZGZiZTVmYjNkODdiNDFkNTgwZDRkZGZkOGE3ZWVjNzg1YjUyYWJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.g795_JIlJJmrY8aZyYiItToiZ_7tW9FgiWvXY2TxUks" width="300" alt="Terraform Modules Screenshot" />
+   - <img src="https://private-user-images.githubusercontent.com/146367397/404727812-98c37b81-88b1-4e73-b31b-8a90f1f7feeb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3MjkzNzksIm5iZiI6MTc0NjcyOTA3OSwicGF0aCI6Ii8xNDYzNjczOTcvNDA0NzI3ODEyLTk4YzM3YjgxLTg4YjEtNGU3My1iMzFiLThhOTBmMWY3ZmVlYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwOFQxODMxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NGEzYTJlMGZlZmIzNDIyOGNjYTliYTg3MmY1MmI4ZTZlZTQ4ZDQ0NmYzYWRjMzJiZmI2YzMwYmVmMjVlMDk4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Bg99Z9NzdxMMF4wGdCTLxRtiLXXe931m2Xa9eSJETIg" width="500" alt="Terraform Modules Screenshot" />
 
 ### Deep Learning Projects
 
 1. **TAQA PREDICT: Predictive Maintenance for All Energies** - TAQA PREDICT is an AI-powered predictive maintenance solution for energy facilities, with a focus on solar plants like NOOR. It uses an LSTM model to analyze real-time operational data and detect anomalies, providing early warnings of potential failures. The goal is to reduce downtime and costs, and maximize energy production through proactive maintenance.
    - Technologies: Python, Flask, TensorFlow, PyTorch
    - [See More](https://github.com/mouad4949/TaqaPredict)
-   - <img src="https://private-user-images.githubusercontent.com/146367397/440140112-7805245f-fb46-47b2-990b-d5ff147ec493.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYyOTg2MTEsIm5iZiI6MTc0NjI5ODMxMSwicGF0aCI6Ii8xNDYzNjczOTcvNDQwMTQwMTEyLTc4MDUyNDVmLWZiNDYtNDdiMi05OTBiLWQ1ZmYxNDdlYzQ5My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwM1QxODUxNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZDJkYWQxMDZmYmNkMjljMjhlOTQ5MGU1MWFmNWUxNWUxYTZmN2JjZTY1Mzc5MDYwYmE3MGQ5M2I0NDYxYzY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.i-h7b6HglWmvgFIPdU5fYs62_2pcDf2KLBjItNd6qOg" width="300" alt="Sentiment API Screenshot" />
+   - <img src="https://private-user-images.githubusercontent.com/146367397/440140112-7805245f-fb46-47b2-990b-d5ff147ec493.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3Mjk1MTUsIm5iZiI6MTc0NjcyOTIxNSwicGF0aCI6Ii8xNDYzNjczOTcvNDQwMTQwMTEyLTc4MDUyNDVmLWZiNDYtNDdiMi05OTBiLWQ1ZmYxNDdlYzQ5My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwOFQxODMzMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MTgwNGViZTQxYzczZDlkNDlhMmFmYjQ3ZTEwNjAwNzBiODc1YTIyNDQyOGJlYjZjOGIwNThjYTg4NGZkODliJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pTB70SZ0MUaZv9Ve4pUL17o9pk4bXl67SQl_HtYK7ps" width="500" alt="Sentiment API Screenshot" />
 
 2. **Deep Learning-Based Epileptic Seizure Detection** - A deep learning solution for early and accurate detection of epileptic seizures using EEG signal classification, leveraging neural networks to support medical diagnosis and improve patient outcomes.
-   - Technologies: PyTorch, Python, TensorFlow
+   - Technologies: PyTorch, Python, TensorFlow*
+  
    - [See More](https://github.com/ScienceWeek02)
  
 
@@ -236,14 +239,14 @@ hobbies:
 ## 🔄 DevOps Workflow
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/146367397/404724406-698f8513-ac63-4af7-a2fa-dfd6037e1266.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYyOTkyMjcsIm5iZiI6MTc0NjI5ODkyNywicGF0aCI6Ii8xNDYzNjczOTcvNDA0NzI0NDA2LTY5OGY4NTEzLWFjNjMtNGFmNy1hMmZhLWRmZDYwMzdlMTI2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwM1QxOTAyMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNGJkYzQ5ODc1ZGQ4MzRiNjQ4Y2ZhZTY5MzJlNDJhZDg3OGMzNDVmY2MzZDlmYjQ3MjljZjkyZGJlOTE3ZTZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.T-mGJoCo3rCrzoml-jo2N9bOU0Uv_f3Va93RaWyDrRk" alt="DevOps Workflow" width="600" />
+  <img src="https://private-user-images.githubusercontent.com/146367397/404724406-698f8513-ac63-4af7-a2fa-dfd6037e1266.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3MjkzNzksIm5iZiI6MTc0NjcyOTA3OSwicGF0aCI6Ii8xNDYzNjczOTcvNDA0NzI0NDA2LTY5OGY4NTEzLWFjNjMtNGFmNy1hMmZhLWRmZDYwMzdlMTI2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwOFQxODMxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNTljNjFiMWQ0ZDg4Zjk2ZjEzNzZkOWU1N2ViNjEzMDBlYTdmOWY4YTVhYmMzZDQ5MTllYjZhYTZmMWRmZjY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5IyP8o_l9nlC6HqRTLgWTdP6jmigZg0eIcBnygDYS7g" alt="DevOps Workflow" width="600" />
 </p>
 
 
 
 ## ⏱ Coding Time Stats
 
-&lt;!--START_SECTION:waka-->
+
 ```text
 JAVA       12 hrs 45 mins  ███████████▓░░░░░░░░░░░░░   46.32 %
 PYTHON         5 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   20.59 %

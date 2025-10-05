@@ -197,27 +197,27 @@ hobbies:
 1. **Automated CI/CD Pipeline** - Implemented a complete CI/CD pipeline using GitHub Actions, Docker, and AWS ECS
    - Technologies: Jenkins, Docker, AWS ECS, ECR
    - [CI/CD](https://github.com/projet-fintech/Devops) -
-   -  <img src="<img width="1680" height="3142" alt="image" src="https://github.com/user-attachments/assets/39640b9d-a89b-4df8-beea-6aea0e53c849" />
+    <img width="1680" height="3142" alt="image" src="https://github.com/user-attachments/assets/666edb37-e2d7-471c-aa2d-738269c769cd" />
+lt="image" src="https://github.com/user-attachments/assets/39640b9d-a89b-4df8-beea-6aea0e53c849" />
 " width="500" alt="CI/CD Pipeline Screenshot" />
 
 2. **Kubernetes Cluster Management** - Developed a solution for managing Kubernetes clusters with automated scaling and monitoring
    - Technologies: Kubernetes, Terraform, Prometheus, Grafana
    
-   - <img src="<img width="962" height="651" alt="image" src="https://github.com/user-attachments/assets/83809010-fa6a-4dc1-8d41-a7a62fdb29e9" />
-" width="500" alt="K8s Management Screenshot" />
+    <img width="962" height="651" alt="image" src="https://github.com/user-attachments/assets/5dca979b-1e64-4106-8867-a85623d45a46" />
+
 
 3. **Infrastructure as Code** - Created reusable Terraform modules for provisioning cloud infrastructure
    - Technologies: Terraform, AWS, Azure
-   - <img src="<img width="1280" height="643" alt="image" src="https://github.com/user-attachments/assets/2d5f75cb-bc38-4aef-974e-ffd1ab95ae7d" />
-" width="500" alt="Terraform Modules Screenshot" />
+     <img width="1280" height="643" alt="image" src="https://github.com/user-attachments/assets/8e567d94-9787-42b9-8e92-1ef6b34919db" />
+
 
 ### Deep Learning Projects
 
 1. **TAQA PREDICT: Predictive Maintenance for All Energies** - TAQA PREDICT is an AI-powered predictive maintenance solution for energy facilities, with a focus on solar plants like NOOR. It uses an LSTM model to analyze real-time operational data and detect anomalies, providing early warnings of potential failures. The goal is to reduce downtime and costs, and maximize energy production through proactive maintenance.
    - Technologies: Python, Flask, TensorFlow, PyTorch
    - [See More](https://github.com/mouad4949/TaqaPredict)
-   - <img src="<img width="1365" height="652" alt="image" src="https://github.com/user-attachments/assets/52adc3ec-fb86-4d12-a780-4e77f047eda6" />
-" width="500" alt="Sentiment API Screenshot" />
+    <img width="1365" height="652" alt="image" src="https://github.com/user-attachments/assets/d60e45c5-6d7c-4607-b6ae-223494ef1486" />
 
 2. **Deep Learning-Based Epileptic Seizure Detection** - A deep learning solution for early and accurate detection of epileptic seizures using EEG signal classification, leveraging neural networks to support medical diagnosis and improve patient outcomes.
    - Technologies: PyTorch, Python, TensorFlow

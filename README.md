@@ -194,12 +194,13 @@ hobbies:
 
 ### DevOps & Cloud Projects
 
-1. **Automated CI/CD Pipeline** - Implemented a complete CI/CD pipeline using GitHub Actions, Docker, and AWS ECS
+1. **Automated CI/CD Pipeline** - Implemented a complete CI/CD pipeline using Jenkins, Docker, and AWS ECS
    - Technologies: Jenkins, Docker, AWS ECS, ECR
-   - [CI/CD](https://github.com/projet-fintech/Devops) -
-    <img width="1680" height="3142" alt="image" src="https://github.com/user-attachments/assets/666edb37-e2d7-471c-aa2d-738269c769cd" />
-lt="image" src="https://github.com/user-attachments/assets/39640b9d-a89b-4df8-beea-6aea0e53c849" />
-" width="500" alt="CI/CD Pipeline Screenshot" />
+   - [See more](https://github.com/projet-fintech/Devops) 
+
+   
+    <img width="1680" height="3142" alt="image" src="https://github.com/user-attachments/assets/cd0ccf1e-0bb3-4d88-a58a-f5d8bb7a474a" />
+
 
 2. **Kubernetes Cluster Management** - Developed a solution for managing Kubernetes clusters with automated scaling and monitoring
    - Technologies: Kubernetes, Terraform, Prometheus, Grafana

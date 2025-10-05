@@ -242,22 +242,3 @@ hobbies:
 
 
 
-
-## 🔄 DevOps Workflow
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/146367397/404724406-698f8513-ac63-4af7-a2fa-dfd6037e1266.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3MjkzNzksIm5iZiI6MTc0NjcyOTA3OSwicGF0aCI6Ii8xNDYzNjczOTcvNDA0NzI0NDA2LTY5OGY4NTEzLWFjNjMtNGFmNy1hMmZhLWRmZDYwMzdlMTI2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwOFQxODMxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNTljNjFiMWQ0ZDg4Zjk2ZjEzNzZkOWU1N2ViNjEzMDBlYTdmOWY4YTVhYmMzZDQ5MTllYjZhYTZmMWRmZjY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5IyP8o_l9nlC6HqRTLgWTdP6jmigZg0eIcBnygDYS7g" alt="DevOps Workflow" width="600" />
-</p>
-
-
-
-## ⏱ Coding Time Stats
-
-
-```text
-JAVA       12 hrs 45 mins  ███████████▓░░░░░░░░░░░░░   46.32 %
-PYTHON         5 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   20.59 %
-Terraform    4 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
-Bash         2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-Docker       1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Kubernetes           1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %with [StackEdit](https://stackedit.io/).

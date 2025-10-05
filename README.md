@@ -5,7 +5,7 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<h3 align="center">I'm a 21-year-old Software Engineering Student from Morocco 🇲🇦</h3>
+<h3 align="center">I'm a 22-year-old Software Engineer from Morocco 🇲🇦</h3>
 
 
 <p align="center">

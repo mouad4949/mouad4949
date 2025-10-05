@@ -19,17 +19,19 @@
 
 ```yaml
 name: Mohamed Mouad RGUIBI
-age: 21
+age: 22
 location: Casablanca, Morocco
 education:
   - Software Engineering Student at FST Tangier
+Experience:
+  - Research Assistant at Oracle
 focus:
   - DevOps
   - Cloud Technologies
   - Infrastructure as Code
   - CI/CD Pipelines
+  - Bash Scripting
 interests:
-  - Machine Learning
   - Deep Learning
   - Kubernetes
   - Microservices
@@ -195,23 +197,27 @@ hobbies:
 1. **Automated CI/CD Pipeline** - Implemented a complete CI/CD pipeline using GitHub Actions, Docker, and AWS ECS
    - Technologies: Jenkins, Docker, AWS ECS, ECR
    - [CI/CD](https://github.com/projet-fintech/Devops) -
-   -  <img src="https://private-user-images.githubusercontent.com/146367397/404724406-698f8513-ac63-4af7-a2fa-dfd6037e1266.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3MjkzNzksIm5iZiI6MTc0NjcyOTA3OSwicGF0aCI6Ii8xNDYzNjczOTcvNDA0NzI0NDA2LTY5OGY4NTEzLWFjNjMtNGFmNy1hMmZhLWRmZDYwMzdlMTI2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwOFQxODMxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNTljNjFiMWQ0ZDg4Zjk2ZjEzNzZkOWU1N2ViNjEzMDBlYTdmOWY4YTVhYmMzZDQ5MTllYjZhYTZmMWRmZjY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5IyP8o_l9nlC6HqRTLgWTdP6jmigZg0eIcBnygDYS7g" width="500" alt="CI/CD Pipeline Screenshot" />
+   -  <img src="<img width="1680" height="3142" alt="image" src="https://github.com/user-attachments/assets/39640b9d-a89b-4df8-beea-6aea0e53c849" />
+" width="500" alt="CI/CD Pipeline Screenshot" />
 
 2. **Kubernetes Cluster Management** - Developed a solution for managing Kubernetes clusters with automated scaling and monitoring
    - Technologies: Kubernetes, Terraform, Prometheus, Grafana
    
-   - <img src="https://private-user-images.githubusercontent.com/146367397/405276229-20ec1256-c583-4b99-8643-0fb400b2daed.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3MjkzNzksIm5iZiI6MTc0NjcyOTA3OSwicGF0aCI6Ii8xNDYzNjczOTcvNDA1Mjc2MjI5LTIwZWMxMjU2LWM1ODMtNGI5OS04NjQzLTBmYjQwMGIyZGFlZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwOFQxODMxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kODZlYWJlMDI3MGU0MzU2YWQxNjJlZWYxY2ZlMWNkZTJhYjUxYWU0NjdiMTFkYjJlNTMyMjExYzA2YTA5YzBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pautC1d9ybj_uigCbaMFvYjmihN88qEwSMebfBMAso8" width="500" alt="K8s Management Screenshot" />
+   - <img src="<img width="962" height="651" alt="image" src="https://github.com/user-attachments/assets/83809010-fa6a-4dc1-8d41-a7a62fdb29e9" />
+" width="500" alt="K8s Management Screenshot" />
 
 3. **Infrastructure as Code** - Created reusable Terraform modules for provisioning cloud infrastructure
    - Technologies: Terraform, AWS, Azure
-   - <img src="https://private-user-images.githubusercontent.com/146367397/404727812-98c37b81-88b1-4e73-b31b-8a90f1f7feeb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3MjkzNzksIm5iZiI6MTc0NjcyOTA3OSwicGF0aCI6Ii8xNDYzNjczOTcvNDA0NzI3ODEyLTk4YzM3YjgxLTg4YjEtNGU3My1iMzFiLThhOTBmMWY3ZmVlYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwOFQxODMxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NGEzYTJlMGZlZmIzNDIyOGNjYTliYTg3MmY1MmI4ZTZlZTQ4ZDQ0NmYzYWRjMzJiZmI2YzMwYmVmMjVlMDk4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Bg99Z9NzdxMMF4wGdCTLxRtiLXXe931m2Xa9eSJETIg" width="500" alt="Terraform Modules Screenshot" />
+   - <img src="<img width="1280" height="643" alt="image" src="https://github.com/user-attachments/assets/2d5f75cb-bc38-4aef-974e-ffd1ab95ae7d" />
+" width="500" alt="Terraform Modules Screenshot" />
 
 ### Deep Learning Projects
 
 1. **TAQA PREDICT: Predictive Maintenance for All Energies** - TAQA PREDICT is an AI-powered predictive maintenance solution for energy facilities, with a focus on solar plants like NOOR. It uses an LSTM model to analyze real-time operational data and detect anomalies, providing early warnings of potential failures. The goal is to reduce downtime and costs, and maximize energy production through proactive maintenance.
    - Technologies: Python, Flask, TensorFlow, PyTorch
    - [See More](https://github.com/mouad4949/TaqaPredict)
-   - <img src="https://private-user-images.githubusercontent.com/146367397/440140112-7805245f-fb46-47b2-990b-d5ff147ec493.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3Mjk1MTUsIm5iZiI6MTc0NjcyOTIxNSwicGF0aCI6Ii8xNDYzNjczOTcvNDQwMTQwMTEyLTc4MDUyNDVmLWZiNDYtNDdiMi05OTBiLWQ1ZmYxNDdlYzQ5My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwOFQxODMzMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MTgwNGViZTQxYzczZDlkNDlhMmFmYjQ3ZTEwNjAwNzBiODc1YTIyNDQyOGJlYjZjOGIwNThjYTg4NGZkODliJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pTB70SZ0MUaZv9Ve4pUL17o9pk4bXl67SQl_HtYK7ps" width="500" alt="Sentiment API Screenshot" />
+   - <img src="<img width="1365" height="652" alt="image" src="https://github.com/user-attachments/assets/52adc3ec-fb86-4d12-a780-4e77f047eda6" />
+" width="500" alt="Sentiment API Screenshot" />
 
 2. **Deep Learning-Based Epileptic Seizure Detection** - A deep learning solution for early and accurate detection of epileptic seizures using EEG signal classification, leveraging neural networks to support medical diagnosis and improve patient outcomes.
    - Technologies: PyTorch, Python, TensorFlow

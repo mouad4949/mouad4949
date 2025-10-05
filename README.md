@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mouad-rguibi-a9969b265"><img src="https://img.shields.io/badge/-MOUAD RGUIBI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouadrguibi/" alt="LinkedIn" /></a>
-  
   <a href="mailto:mouadrguibi900@gmail.com"><img src="https://img.shields.io/badge/-mouadrguibi900@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com" alt="Gmail" /></a>
     <a href="https://www.mouadrguibi.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouadrguibi/" alt="LinkedIn" /></a>
   

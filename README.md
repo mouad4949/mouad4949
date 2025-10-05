@@ -9,11 +9,11 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mouad-rguibi-a9969b265"><img src="https://img.shields.io/badge/-MOUAD%20RGUIBI-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mouad-rguibi-a9969b265"><img src="https://img.shields.io/badge/-MOUAD RGUIBI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouadrguibi/" alt="LinkedIn" /></a>
   
-  <a href="mailto:mouadrguibi900@gmail.com"><img src="https://img.shields.io/badge/-mouadrguibi900%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:mouadrguibi900@gmail.com"><img src="https://img.shields.io/badge/-mouadrguibi900@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com" alt="Gmail" /></a>
+    <a href="https://mouadrguibi.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouadrguibi/" alt="LinkedIn" /></a>
   
-  <a href="https://mouadrguibi.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=GoogleChrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me

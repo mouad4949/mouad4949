@@ -226,16 +226,6 @@ hobbies:
    - [See More](https://github.com/ScienceWeek02)
  
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouad4949&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouad4949&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-</p>
-
-
-
 
 
 

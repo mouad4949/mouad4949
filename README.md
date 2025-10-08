@@ -228,9 +228,6 @@ hobbies:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mouad4949&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouad4949&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>

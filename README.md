@@ -207,7 +207,7 @@ A medical AI application that processes EEG signals to identify seizure patterns
   <br/>
   <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=mouad4949&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="98%" />
+ [![GitHub Streak](https://github-readme-streak-stats-ten-drab.vercel.app?user=mouad4949&theme=java-dark)](https://git.io/streak-stats)
 </div>
 
 
@@ -220,19 +220,7 @@ A medical AI application that processes EEG signals to identify seizure patterns
 
 ---
 
-## 💡 Currently Learning
-```mermaid
-mindmap
-  root((Learning Path))
-    Cloud Architecture
-      AWS Solutions Architect
-      Multi-Cloud Strategies
-      Cost Optimization
-    Kubernetes
-      CKA Certification
-      Service Mesh
-      GitOps
-```
+
 
 ---
 

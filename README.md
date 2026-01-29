@@ -82,7 +82,7 @@ passion:
 ### 🏦 Fintech Platform
 
 <a href="https://github.com/projet-fintech">
-  ![image](https://private-user-images.githubusercontent.com/146367397/404729900-c88669bd-ed7f-442b-a7d9-9254bfce7eb6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njk3MDM4MzIsIm5iZiI6MTc2OTcwMzUzMiwicGF0aCI6Ii8xNDYzNjczOTcvNDA0NzI5OTAwLWM4ODY2OWJkLWVkN2YtNDQyYi1hN2Q5LTkyNTRiZmNlN2ViNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEyOVQxNjE4NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wM2YwNzViNjg2NzM5YjM1ZTRmZWZiNjZhNDA1YmEwMTUwYzZkMDc4NjdmNmRiMmEwM2NiOTRmNzgzZTQ1ZDJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.U42r6V4UcM3szmrSPGNKX-fqJEbuGF0wFhy0uKFJoBk)
+  <img align="center" src="https://i.imgur.com/8obgQZY.png" />
 </a>
 
 ### ⚡️ DAAB(DevOps As A Buddy)

@@ -88,7 +88,8 @@ passion:
 ### ⚡️ DAAB(DevOps As A Buddy)
 
 <a href="https://github.com/mouad4949/DAAB">
-  <img align="center" src="https://www.javacodegeeks.com/wp-content/uploads/2021/07/DevOps.png"/>
+  <img width="750" height="227" alt="image" src="https://github.com/user-attachments/assets/c6fe7503-7ecf-49d1-9c44-3f51d4b8e735" />
+
 </a>
 
 ---
